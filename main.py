@@ -1,7 +1,7 @@
 import telebot
 from bot_logic import gen_pass
 
-token ="7979551876:AAEo56mAnf8TPpp41r9pGfcQaxa-Bsz9vXc"
+token ="
 
 bot = telebot.TeleBot(token)
     
